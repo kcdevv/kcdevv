@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on **[e-Go Bus](https://github.com/kcjod/e-go-bus)**  
 - 🌱 I’m currently learning **Web and Cloud Development**  
 - 💬 Ask me about **MERN, React Native, and Web3**  
-- ⚡ Fun fact: **The Walking dead Debugger**
+- ⚡ Fun fact: **The Walking Dead Debugger**
 
 ---
 
@@ -35,7 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kcjod&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcjod&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
 </div>
-
 
 ---
 
@@ -63,3 +62,4 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="300px">
 </p>
+
