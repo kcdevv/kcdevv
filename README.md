@@ -17,9 +17,9 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **[e-Go Bus](https://github.com/kcjod/e-go-bus)**  
-- 🌱 I’m currently learning **Web and Cloud Development**  
+- 🌱 I’m currently learning **App Development and Blockchain**  
 - 💬 Ask me about **MERN, React Native, and Web3**  
-- ⚡ Fun fact: **Making some 💩 in VS Code**
+- ⚡ Fun fact: **Making some epic shit in VS Code**
 
 ---
 
