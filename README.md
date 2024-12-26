@@ -33,7 +33,7 @@
 <h3 align="center">📈 GitHub Stats</h3>
 <div align="center" style="display: flex; flex-direction: column; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=kcjod&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcjod&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcjod&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </div>
 
 ---
