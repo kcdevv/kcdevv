@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Krishna Chaitanya</h1>
 <h3 align="center">A passionate Developer and Tech Enthusiast</h3>
 
@@ -38,6 +37,13 @@
 
 ---
 
+<h3 align="center">📊 GitHub Streak</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kcjod&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 <h3 align="center">🌐 Let's Connect!</h3>
 <p align="center">
   <a href="https://linkedin.com/in/krishnachaitanyakattoju" target="_blank">
@@ -62,4 +68,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="300px">
 </p>
-
