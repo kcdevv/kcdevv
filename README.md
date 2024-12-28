@@ -24,7 +24,7 @@
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,python,rust,c,cpp,html,css,aws,docker,kubernetes,tailwind,github,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,python,rust,c,cpp,html,css,aws,docker,kubernetes,tailwind,github,git,firebase,postgres,prisma,kafka,redis" alt="Tech Stack" />
 </p>
 
 ---
