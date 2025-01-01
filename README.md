@@ -2,12 +2,6 @@
 <h3 align="center">A passionate Developer and Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=500&color=36BCF7&width=570&lines=MERN+Stack+%7C+React+Native+%7C+Blockchain" alt="Typing Animation">
-</p>
-
----
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kcjod&theme=darkhub&row=1&column=6&no-frame=true&margin-w=15" alt="GitHub Trophies">
 </p>
 
@@ -18,7 +12,6 @@
 - 🔭 I’m currently working on **[e-Go Bus](https://github.com/kcjod/e-go-bus)**  
 - 🌱 I’m currently learning **Web and Cloud Development**  
 - 💬 Ask me about **MERN, React Native, and Web3**  
-- ⚡ Fun fact: **The Walking Dead Debugger**
 
 ---
 
