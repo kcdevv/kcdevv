@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Chaitanya</h1>
-<h3 align="center">A passionate Developer and Tech Enthusiast</h3>
+<h3 align="center">Developer and Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kcjod&theme=darkhub&row=1&column=6&no-frame=true&margin-w=15" alt="GitHub Trophies">
