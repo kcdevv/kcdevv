@@ -2,14 +2,14 @@
 <h3 align="center">Developer and Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kcjod&theme=darkhub&row=1&column=6&no-frame=true&margin-w=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=krisnachaitanya&theme=darkhub&row=1&column=6&no-frame=true&margin-w=15" alt="GitHub Trophies">
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[e-Go Bus](https://github.com/kcjod/e-go-bus)**  
+- 🔭 I’m currently working on **[e-Go Bus](https://github.com/krisnachaitanya/e-go-bus)**  
 - 🌱 I’m currently learning **Web and Cloud Development**  
 - 💬 Ask me about **MERN, React Native, and Web3**  
 
@@ -24,15 +24,15 @@
 
 <h3 align="center">📈 GitHub Stats</h3>
 <div align="center" style="display: flex; flex-direction: column; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=kcjod&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcjod&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=krisnachaitanya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisnachaitanya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </div>
 
 ---
 
 <h3 align="center">📊 GitHub Streak</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kcjod&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krisnachaitanya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kcjod&style=for-the-badge&color=brightgreen" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=krisnachaitanya&style=for-the-badge&color=brightgreen" alt="Profile Views">
 </p>
 
 ---
