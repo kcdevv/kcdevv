@@ -9,7 +9,6 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[e-Go Bus](https://github.com/kcdevv/e-go-bus)**  
 - 🌱 I’m currently learning **Web and Cloud Development**  
 - 💬 Ask me about **MERN, React Native, and Web3**  
 
